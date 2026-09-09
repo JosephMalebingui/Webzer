@@ -1,26 +1,25 @@
-# Festi'JS — [nom de votre festival]
+# Festi'JS — [Webzer]
 
 > Remplissez ce fichier en séance 1. C'est votre premier commit.
 
 ## Le binôme
 
-| Prénom NOM | Identifiant Git | Groupe |
-|------------|-----------------|--------|
-|            |                 |        |
-|            |                 |        |
+| Prénom NOM      | Identifiant Git | Groupe |
+|-----------------|-----------------|--------|
+|Joseph Malebingui|Joseph Malebingui|        |
+|                 |                 |        |
 
 ### Répartition du travail
 
 _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant les rôles._
 
-- **[Nom 1] →**
-- **[Nom 2] →**
+- **[Joseph Malebingui] →**
 
 ## Le festival
 
-- **Thème :**
-- **En une phrase :**
-- **Blind test envisagé :** audio / vidéo — sur quoi ?
+- **Thème :*Musique*
+- **En une phrase :*laisse parler ta mémoire auditive*
+- **Blind test envisagé :** je vais mettre une musique sur un son animé, et les personnes de la classe devront deviner qui chante
 
 ## Lancer le projet
 
