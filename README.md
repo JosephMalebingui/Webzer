@@ -19,8 +19,7 @@ _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant le
 
 - **Thème :*Musique*
 - **En une phrase :*laisse parler ta mémoire auditive*
-- **Blind test envisagé :** je vais mettre une musique sur un son animé, et les personnes de la classe devront deviner qui chante
-
+- **Blind test envisagé :** je vais mettre une musique sur le site, et les personnes de la classe devront deviner qui chante, et j'ai aussi prévu de mettre des mots avec des lettre au hasard et les gens devont retrouver le bon mot (j'ai eu cette idée après la première séance donc jsp si ça colle.
 ## Lancer le projet
 
 Ouvrir `index.html` avec un serveur local (extension Live Server de VS Code)
